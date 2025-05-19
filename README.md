@@ -11,3 +11,6 @@ Recieve
 ```
 reply = socket.recv_json()
 ```
+#UML Sequence Diagram
+
+![alt text](Microservice-UML.pdf)
